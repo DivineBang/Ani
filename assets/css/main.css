@@ -69,6 +69,7 @@ ul,li{
 }
 .menu__item_a {
     font-family: "Inter", sans-serif;
+    text-transform: uppercase;
     color: #4C4440;
     font-size: 20px;
     font-weight: 400;
@@ -104,10 +105,12 @@ ul,li{
     margin-bottom: 100px; 
 }
 .offer__title{
+    font-family: "Inter", sans-serif;
     color: #fff;
     font-size: 37px;
 }
 .offer__text{
+    font-family: "Inter", sans-serif;
     width: 194px;
     color: #fff;
 }
@@ -116,6 +119,7 @@ ul,li{
     gap: 20px;
 }
 .offer__btn_first{
+    font-family: "Inter", sans-serif;
     width: 160px;
     padding: 15px 30px;
     border-radius: 20px;
@@ -130,6 +134,7 @@ ul,li{
     background: #dfbea6;
 }
 .offer__btn_second{
+    font-family: "Inter", sans-serif;
     width: 170px;
     text-align: center;
     padding: 15px 30px;
@@ -578,6 +583,7 @@ ul,li{
     text-transform: uppercase;
     color: #604A40;
 }
+
 /*1200-1440*/
 @media screen and (max-width:1440px) {
 	.container{
